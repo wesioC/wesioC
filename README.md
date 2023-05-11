@@ -14,7 +14,7 @@
   <img align="center" alt="wesio-mysql" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="wesio-PHP" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="wesio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="center" alt="wesio-VUE" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg">
+<img align="center" alt="wesio-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 </div>
   
   ##
